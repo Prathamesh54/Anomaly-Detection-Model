@@ -78,23 +78,7 @@ Note: A negative score typically indicates an anomaly in Isolation Forest.
 
 ---
 
-## 🎯 Features
 
-- Lightweight anomaly detection system  
-- Real-time prediction via API  
-- CLI and HTTP interface  
-- Demonstrates AI + system integration  
-
----
-
-## 📌 Future Improvements
-
-- Use real network log datasets  
-- Add visualization dashboard  
-- Improve feature engineering  
-- Deploy on cloud  
-
----
 
 ## 👨‍💻 Author
 
